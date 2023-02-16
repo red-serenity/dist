@@ -1,1 +1,1 @@
-# dist
+# Distribution of Serenity software
